@@ -1,0 +1,14 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "guitar",
+            "slug": "guitar-fundamentals",
+            "description": "this is a guitar used in music ",
+            "price": 99.99,
+            "instructor": "John Doe",
+            "isFeatured": "true",
+            "image": "/courses/guitar.jpg"
+        }
+    ]
+}
